@@ -1,3 +1,6 @@
+
+![Logo of the project](https://github.com/vivek-bombatkar/DataWorksSummit2018_Apache_Nifi/blob/master/nifi.JPG)
+
 # DataWorks Summit 2018
 > https://dataworkssummit.com/berlin-2018/
 
@@ -21,5 +24,10 @@ This workshop will provide a hands on introduction to simple event data processi
 
 > https://hortonworks.com/tutorial/analyze-transit-patterns-with-apache-nifi/section/1/
 > https://hortonworks.com/tutorial/analyze-transit-patterns-with-apache-nifi/section/2/
+> https://hortonworks.com/tutorial/analyze-transit-patterns-with-apache-nifi/section/3/
+> https://hortonworks.com/tutorial/analyze-transit-patterns-with-apache-nifi/section/4/
+> https://hortonworks.com/tutorial/analyze-transit-patterns-with-apache-nifi/section/5/
+> https://hortonworks.com/tutorial/analyze-transit-patterns-with-apache-nifi/section/6/
+> https://hortonworks.com/tutorial/analyze-transit-patterns-with-apache-nifi/section/7/
 
 
